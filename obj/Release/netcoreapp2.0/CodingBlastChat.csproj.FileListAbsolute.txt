@@ -1,0 +1,11 @@
+E:\Projects\CodingBlastChat\CodingBlastChat\bin\Release\netcoreapp2.0\CodingBlastChat.deps.json
+E:\Projects\CodingBlastChat\CodingBlastChat\bin\Release\netcoreapp2.0\CodingBlastChat.runtimeconfig.json
+E:\Projects\CodingBlastChat\CodingBlastChat\bin\Release\netcoreapp2.0\CodingBlastChat.runtimeconfig.dev.json
+E:\Projects\CodingBlastChat\CodingBlastChat\bin\Release\netcoreapp2.0\CodingBlastChat.dll
+E:\Projects\CodingBlastChat\CodingBlastChat\bin\Release\netcoreapp2.0\CodingBlastChat.pdb
+E:\Projects\CodingBlastChat\CodingBlastChat\obj\Release\netcoreapp2.0\CodingBlastChat.csprojResolveAssemblyReference.cache
+E:\Projects\CodingBlastChat\CodingBlastChat\obj\Release\netcoreapp2.0\CodingBlastChat.csproj.CoreCompileInputs.cache
+E:\Projects\CodingBlastChat\CodingBlastChat\obj\Release\netcoreapp2.0\CodingBlastChat.AssemblyInfoInputs.cache
+E:\Projects\CodingBlastChat\CodingBlastChat\obj\Release\netcoreapp2.0\CodingBlastChat.AssemblyInfo.cs
+E:\Projects\CodingBlastChat\CodingBlastChat\obj\Release\netcoreapp2.0\CodingBlastChat.dll
+E:\Projects\CodingBlastChat\CodingBlastChat\obj\Release\netcoreapp2.0\CodingBlastChat.pdb
